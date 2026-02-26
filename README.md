@@ -1,17 +1,25 @@
-# movie_time_app
+# 电影时刻前台APP系统
 
-A new Flutter project.
+## 前言
 
-## Getting Started
+`电影时刻`项目是一个电影票务系统，采用前后端分离架构，包含后端服务、前台APP系统以及后台管理系统。
 
-This project is a starting point for a Flutter application.
+**后端项目传送门**：[cd-water/movie-time](https://github.com/cd-water/movie-time)
 
-A few resources to get you started if this is your first Flutter project:
+**APP端项目传送门**：[cd-water/movie-time-app](https://github.com/cd-water/movie-time-app)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+**管理端项目传送门**：[cd-water/movie-time-admin](https://github.com/cd-water/movie-time-admin)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 项目介绍
+
+`电影时刻前台APP系统`面向用户，提供电影/影院浏览、影评发布及点赞、选座购票、用户关注等功能。
+
+## 项目UI
+
+## 技术栈
+
+| 技术    | 说明       |
+| ------- | ---------- |
+| flutter | 包管理工具 |
+
+## 环境搭建
